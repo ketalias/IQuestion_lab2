@@ -1,0 +1,15 @@
+/Users/roman07/Projects/QInterface/QInterface/bin/Debug/net7.0/QInterface
+/Users/roman07/Projects/QInterface/QInterface/bin/Debug/net7.0/QInterface.deps.json
+/Users/roman07/Projects/QInterface/QInterface/bin/Debug/net7.0/QInterface.runtimeconfig.json
+/Users/roman07/Projects/QInterface/QInterface/bin/Debug/net7.0/QInterface.dll
+/Users/roman07/Projects/QInterface/QInterface/bin/Debug/net7.0/QInterface.pdb
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.csproj.AssemblyReference.cache
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.AssemblyInfoInputs.cache
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.AssemblyInfo.cs
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.csproj.CoreCompileInputs.cache
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.dll
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/refint/QInterface.dll
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.pdb
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/QInterface.genruntimeconfig.cache
+/Users/roman07/Projects/QInterface/QInterface/obj/Debug/net7.0/ref/QInterface.dll

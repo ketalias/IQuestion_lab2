@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{98D49C92-9C26-42FD-8A1A-2C2EC4B64B96}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QInterface/Program.cs">
+    <Files>
+      <File FileName="QInterface/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QInterface" expanded="True">
+            <Node name="QInterface">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QInterface FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
